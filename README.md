@@ -4,6 +4,7 @@ These are example applications intended to demonstrate communicating with and co
 
 Projects
 ---
+  * [LJ-ExternalDMXOverride](/LJ-ExternalDMXOverride) - Demonstrates the use of SendMessage function with WM_COPYDATA to send raw DMX values directly to LightJockey's output, overwriting LJ's own values. Delphi5, and VB.NET (Visual Studio 2008, 2015) projects included.
   * [LJ-ExternalIntensityControl](/LJ-ExternalIntensityControl) - Demonstrates the use of SendMessage function with WM_COPYDATA to control master intensity and group-master intensities. Delphi5, and VB.NET (Visual Studio 2008, 2015) projects included.
 
 License (MIT License)
