@@ -1,0 +1,227 @@
+[MainWindow]
+Create=1
+Visible=1
+State=0
+Left=2
+Top=-1
+Width=1160
+Height=106
+MaxLeft=-3
+MaxTop=-4
+ClientWidth=1152
+ClientHeight=60
+
+[ProjectManager]
+LargeButtons=1
+Column0Width=75
+Column1Width=125
+Column2Width=125
+
+[AlignmentPalette]
+Create=1
+Visible=1
+State=0
+Left=796
+Top=161
+Width=156
+Height=82
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=150
+ClientHeight=60
+
+[PropertyInspector]
+Create=1
+Visible=1
+State=0
+Left=-1
+Top=105
+Width=216
+Height=705
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=208
+ClientHeight=681
+SplitPos=93
+
+[HistoryLists\hiSearchSymbol]
+Count=0
+
+[HistoryLists\hiWatchExpression]
+Count=32
+H0=FadeGroupmap
+H1=UserFix^,R
+H2=UserDef^,R
+H3=SC2^,R
+H4=SC2,R
+H5=_DmxAdresses[Configuration.Fixtures[I].Fixture]
+H6=_DmxAdresses[Fixtures[I].Fixture]
+H7=_DmxAddresses[Fixtures[I].Fixture]
+H8=A
+H9=ManualPatchCFG.Max
+H10=Fix
+H11=Result
+H12=TempRec.Scanner2.TiltOfs
+H13=Ok
+H14=I
+H15=SC2.Levels[I].Disabled
+H16=SC2.Levels[I]
+H17=SC2
+H18=No
+H19=Filter And 32
+H20=_goboControl
+H21=_EffectsControl
+H22=MaxPx
+H23=MaxP1
+H24=FValue
+H25=P^,R
+H26=P,R
+H27=UserDef.Scanner2.Color1,R
+H28=F
+H29=Dy
+H30=Dx
+H31=y
+
+[HistoryLists\hiEvalExpression]
+Count=32
+H0=255-8,x
+H1=256-32
+H2=512-32
+H3=27000-432-74.55-265-2119-9932-325
+H4=10*33
+H5=8*1024
+H6=4095
+H7=60+24
+H8=36+24
+H9=256/32
+H10=(45+37+30+36+40+37.5)*4
+H11=45+37+30+36+40+37.5
+H12=45+37+30+36+40+37,5
+H13=30*40
+H14=25*40
+H15=800
+H16=15*40
+H17=600
+H18=40*6
+H19=256 div 16
+H20=16
+H21=255 div 8
+H22=184-95
+H23=20+20+80+5+1+1
+H24=100*512
+H25=32*7
+H26=(232+243) Div 2
+H27=(231+219) Div 2
+H28=218-130
+H29=88
+H30=8*33
+H31=5*8+0
+
+[HistoryLists\hiOpenFile]
+Count=32
+H0=d:\cl\source-common\system\usermessages.pas
+H1=d:\delphi 3\projects\clublite\source-common\system\usermessages.pas
+H2=d:\delphi 3\tests\sharedsync\sharedtx.dpr
+H3=d:\delphi 3\projects\clublite_105\adpdriver.dpr
+H4=d:\delphi 3\projects\clublite\offline\progs\offlinetest.dpr
+H5=d:\delphi 3\projects\clublite\defines.pas
+H6=d:\delphi 3\projects\clublite\denines.pas
+H7=d:\delphi 3\projects\clublite\define.pas
+H8=c:\temp2\rcontrol.c
+H9=d:\delphi 3\projects\clublite\source-common\system\oldtypes.pas
+H10=d:\delphi 3\projects\clublite\adpdriver\adptest.dpr
+H11=d:\delphi 3\projects\clublite-external\msdlite\dataexchange.dpr
+H12=d:\delphi 3\projects\clublite\source-main\maps\scramble.pas
+H13=d:\delphi 3\projects\clublite\lightjockey.dpr
+H14=d:\delphi 3\projects\uploaderv31\uploaderv32.dpr
+H15=d:\delphi 3\projects\clublite\custombuilder.dpr
+H16=d:\delphi 3\projects\clublite\source-fixtures\controls\colorcontrols\colorcontrol_zap.pas
+H17=d:\delphi 3\projects\clublite\old source\masterintensity.pas
+H18=d:\delphi 3\projects\clublite\source-main\masterintensity\intensitygroups.pas
+H19=d:\delphi 3\projects\clublite\source-main\misc forms\masterintensity.pas
+H20=d:\delphi 3\projects\clublite\source-main\popups\fixturepop.pas
+H21=d:\delphi 3\projects\clublite\source-main\mpbb2\bb2maps.pas
+H22=d:\delphi 3\projects\watch\watch_out.dpr
+H23=d:\delphi 3\projects\clublite\adpdriver.dpr
+H24=d:\delphi 3\projects\clublite\source-main\saveseq.pas
+H25=d:\delphi 3\projects\clublite\source-fixtures\controls\movementcontrols\obsolete\pantilt_8bit.pas
+H26=d:\delphi 3\projects\test apps\trackpod\mergetest.dpr
+H27=d:\delphi 3\projects\clublite\source-fixtures\buttons\fb_acrobat.pas
+H28=d:\delphi 3\projects\clublite\source-fixtures\controls\movementcontrols\pantilt_8bit.pas
+H29=d:\delphi 3\projects\clublite\source-fixtures\controls\movementcontrols\pantilt_16bit.pas
+H30=d:\cl\defines.pas
+H31=d:\delphi 3\projects\test apps\lightjockey4064\lightjockey4064clubtest.dpr
+
+[HistoryLists\hiFindError]
+Count=0
+
+[HistoryLists\hiUnitAlias]
+Count=1
+H0=WinTypes=Windows;WinProcs=Windows;DbiTypes=BDE;DbiProcs=BDE;DbiErrs=BDE;
+
+[HistoryLists\hiLibUnitAliases]
+Count=0
+
+[HistoryLists\hiSearchMasks]
+Count=0
+
+[Closed Files]
+File_0=SourceModule,'D:\CL\Source-Main\Hardware\CLUB4064.pas',0,1,401,55,415,0,0
+File_1=SourceModule,'D:\CL\Source-Main\Patch\GlobalPatch.pas',0,1,106,29,123,1,0
+File_2=SourceModule,'D:\CL\Source-Common\System\GlobalData.pas',0,1,90,8,100,0,0
+File_3=SourceModule,'D:\CL\Source-Main\FixtureLists.pas',0,1,701,15,718,0,0
+File_4=SourceModule,'D:\CL\Source-Main\Main.pas',0,1,2735,66,2752,1,0
+File_5=SourceModule,'D:\CL\Source-Common\System\Types.pas',0,1,679,14,708,0,0
+File_6=SourceModule,'D:\CL\Source-Main\Remote\DmxInAux.pas',0,1,9,11,26,0,0
+File_7=SourceModule,'D:\CL\Source-Main\Dialogs\Scanner2Defs.pas',0,1,1,1,1,0,0
+File_8=SourceModule,'D:\CL\Source-Main\UserFixtures\UserfixturesSpecial.pas',0,1,76,1,80,1,0
+
+[Modules]
+Module0=C:\LJ\Utils\DmxInEmu\Main.pas
+Module1=C:\LJ\Utils\DmxInEmu\DmxInEmulator.dpr
+Count=2
+EditWindowCount=1
+
+[C:\LJ\Utils\DmxInEmu\Main.pas]
+ModuleType=SourceModule
+FormState=1
+FormOnTop=0
+
+[C:\LJ\Utils\DmxInEmu\DmxInEmulator.dpr]
+ModuleType=SourceModule
+FormState=0
+FormOnTop=0
+
+[EditWindow0]
+Create=1
+Visible=1
+State=0
+Left=219
+Top=103
+Width=908
+Height=700
+MaxLeft=-1
+MaxTop=-1
+ClientWidth=900
+ClientHeight=673
+SplitPos=-1
+MessagePane=0
+ViewCount=1
+CurrentView=0
+View0=0
+
+[View0]
+Module=C:\LJ\Utils\DmxInEmu\Main.pas
+CursorX=34
+CursorY=175
+TopLine=149
+LeftCol=1
+
+[Watches]
+Count=2
+Watch0='UserFix^,R',256,0,18,1
+Watch1='FadeGroupMap',256,0,18,1
+
+[Breakpoints]
+Count=0
+
